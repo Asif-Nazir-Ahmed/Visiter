@@ -163,3 +163,8 @@ background-color:linear-gradient(to right, #a517ba,#5f1782 );
 
 
 }
+.foot{
+    margin-top: 1rem;
+    background:#a517ba;
+    color: aliceblue;
+}
